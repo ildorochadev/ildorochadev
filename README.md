@@ -1,16 +1,28 @@
-## Hi there 👋
+## ✨ A que linhas de código daremos vida hoje?
 
-<!--
-**ildorochadev/ildorochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Ildo Junior Banaseski da Rocha**  
+Sou desenvolvedor **back-end**, tenho 24 anos e moro em **Chapecó - SC**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experiência
+- Contribuí em sistemas de **automações contábeis** e **gerenciamento de estoque**.  
+- Trabalhei com metodologias ágeis, versionamento de código e boas práticas de desenvolvimento.  
+
+### 🛠️ Skills
+- **Linguagens:** Delphi | Python  
+- **Outros:** Git | Metodologias Ágeis  
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ildojunior&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildojunior&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato
+- [](#)  
+- [](#)  
