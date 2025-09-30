@@ -10,8 +10,8 @@ Contato: [Email](mailto:ildo.rocha.dev@gmail.com)
 ---
 
 ## 💼 Experiência
-- 🚀 Contribuí em sistemas de **automações contábeis** e **gerenciamento de estoque**  
-- 📌 Trabalhei com **metodologias ágeis**, versionamento de código e boas práticas de desenvolvimento
+-  Contribuí em sistemas de **automações contábeis** e **gerenciamento de estoque**  
+-  Trabalhei com **metodologias ágeis**, versionamento de código e boas práticas de desenvolvimento
 
 ---
 
