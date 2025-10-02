@@ -1,4 +1,4 @@
-# 👨‍💻 A que linhas de código daremos vida hoje?
+# 👨‍💻 A que linhas de código daremos vida hoje? 
 
 ---
 
