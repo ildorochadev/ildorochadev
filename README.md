@@ -116,26 +116,6 @@
 
 </div>
 
-
-<br><br>
-
-<details align="center">  
-  <summary>
-      <samp><b>Mais informações</b></samp>
-  </summary>
-  <br>
-
-  <div align="center">
-    <samp><b>Experiência</b></samp>
-    <br><br>
-
-    💼 Participei no desenvolvimento de soluções para automação contábil e gestão de estoque, unindo eficiência e confiabilidade  
-    ⚙️ No dia a dia, aplico metodologias ágeis, mantenho o foco em boas práticas e faço uso de versionamento de código
-  </div>
-
-  <br>
-</details>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
