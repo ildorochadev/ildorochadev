@@ -1,11 +1,8 @@
 # 👨‍💻 A que linhas de código daremos vida hoje? 
 
----
+## Contato
 
-### Me chamo **Ildo Junior Banaseski da Rocha**
-Sou desenvolvedor **back-end**, tenho 24 anos e moro em **Chapecó - SC**.
-
-Contato: [Email](mailto:ildo.rocha.dev@gmail.com)
+- [Email](mailto:ildo.rocha.dev@gmail.com)
 
 ---
 
