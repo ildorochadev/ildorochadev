@@ -80,6 +80,7 @@
   <br><br>
 
   💼 Tenho experiência no desenvolvimento de soluções para automação contábil e gestão de estoque, unindo eficiência e confiabilidade
+  <br>
   ⚙️ No dia a dia, aplico metodologias ágeis, mantenho o foco em boas práticas e faço uso de versionamento de código
 
 </div>
